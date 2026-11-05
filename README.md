@@ -163,3 +163,13 @@ Add entries to `js/nutrition-data.js` following the existing schema:
   note: "Source of data"
 }
 ```
+---
+
+## 👨‍💻 Contributors
+
+This project was collaboratively developed by:
+
+- **Aniket Gaikwad** – Co-Developer
+- **Sahil Chavan** – Co-Developer
+
+Both contributors collaborated on designing and developing NutriGuard – Smart Food & Nutrition.
